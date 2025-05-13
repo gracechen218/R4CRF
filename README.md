@@ -1,6 +1,6 @@
 # R4CRF
 
-R4CRF is a lightweight R-based demo project that showcases how to create clinical trial tables in RTF format using the [`r2rtf`](https://github.com/phuse-org/r2rtf) package. The goal is to provide a reproducible and easy-to-follow example for generating demographic tables commonly used in clinical research.
+R4CRF is a lightweight R-based demo project that created by Grace Chen to showcases how to create clinical trial tables in RTF format using the [`r2rtf`](https://github.com/phuse-org/r2rtf) package. The goal is to provide a reproducible and easy-to-follow example for generating demographic tables commonly used in clinical research.
 
 ## Files
 
@@ -20,6 +20,4 @@ R4CRF is a lightweight R-based demo project that showcases how to create clinica
 3. Make sure the `r2rtf` package is installed (`install.packages("r2rtf")`).
 4. Run the script to regenerate the demographic table based on the sample data.
 
-## License
 
-This project is intended for educational and demonstration purposes.
